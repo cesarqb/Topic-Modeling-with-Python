@@ -43,7 +43,7 @@ Topic-Modeling-with-Python
 │
 ├── README.md
 ├── requirements.txt
-├── Topic_Modeling_Facebook_1
+├── Topic_Modeling_Facebook_1.ipynb
 │
 ├── data
 │   ├── raw
