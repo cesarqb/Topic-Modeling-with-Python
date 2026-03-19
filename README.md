@@ -63,6 +63,10 @@ Topic-Modeling-with-Python
 ├── images
 │   └── wordcloud.png
 │
+├── models
+│   └── comentarios.model
+│   └── comentarios.dictionary
+│
 └── results
     └── topics_output.csv
 ```
